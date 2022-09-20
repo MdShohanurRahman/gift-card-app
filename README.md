@@ -29,7 +29,7 @@ A GiftCard app where a user can issue card, redeem card, reload card and cancel 
     POST /api/gift_cards/cancel/{id}
 
     PUT /api/gift_cards/redeem/{id}
-    PUT /api/gift_cards/redeem/{id}
+    PUT /api/gift_cards/reload/{id}
 
     GET /api/gift_cards
     GET /api/gift_cards/{id}
